@@ -24,6 +24,10 @@ Then run the app with
 pnpm start:dev
 ```
 
+## Running queries
+
+You can run queries with the GraphQL playground at http://localhost:3000/graphql
+
 ## Docs
 
 - [NestJS](https://docs.nestjs.com/)
